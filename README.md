@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **awesome Open Source projects**
 
-- 🤝 I’m looking for help with [Cute Deltas](https://github.com/ncoop57/cute_deltas)
-
 - 👨‍💻 All of my projects are available at [https://nathancooper.io/#/projects](https://nathancooper.io/#/projects)
 
 - 📝 I regularly write articles on [https://nathancooper.io/i-am-a-nerd/](https://nathancooper.io/i-am-a-nerd/)
@@ -23,7 +21,7 @@
 
 - 📄 Know about my experiences [https://nathancooper.io/#/about](https://nathancooper.io/#/about)
 
-- ⚡ Fun fact **I owned an iguana 🦎 as a pet when I was younger. I also am learning Spanish!**
+- ⚡ Fun fact **I owned an iguana 🦎 as a pet when I was younger. I am also learning Spanish!**
 
 - 😄 Pronouns: He/Him
 
