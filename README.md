@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ncooper57" target="blank"><img src="https://img.shields.io/twitter/follow/ncooper57?logo=twitter&style=for-the-badge" alt="ncooper57" /></a> </p>
 
-- 🔭 I’m currently the lead research scientist for Code and Language at Stability AI.
+- 🔭 I’m currently a Research Scientist @ Answer.AI
 
 - 🌱 I’m currently learning **how to better contribute to open source.**
 
